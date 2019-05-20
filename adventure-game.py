@@ -1,4 +1,10 @@
 #
+# Nauka języka programowania Python - gra przygodowa, dla dzieci i młodzieży
+# kod i scenariusz: marek trojanowicz
+# grafika: ignacy trojanowicz
+#
+
+#
 # wymuszenie skorzystania z dekodera polskich znaków
 # coding=utf-8
 
@@ -19,7 +25,7 @@ import pygame
 # Funkcja ta oblicza i przypisuje także wartość ScaleFactor i przypisuje ją do zmiennej giScaleFactor.
 # Szerokość maksymalna 1280;
 #
-giScreenWidth = 700;
+giScreenWidth=800;
 
 
 #
